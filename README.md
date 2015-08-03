@@ -18,7 +18,7 @@ Pagrindiniame lange žaidėjas gali pasirinkti:
 ### Žaidimo ekranas:
 ![](/Screenshot_2.png)
 
-### Žaidimo ekranas suradus visus atsakymus pažymėjus "Rodyti atsakymus":
+### Žaidimo ekranas pažymėjus "Rodyti atsakymus":
 ![](/Screenshot_3.png)
 
 ### Žaidimo rezultatai:
