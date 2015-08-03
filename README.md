@@ -2,6 +2,8 @@
 
 Žaidimas padarytas kaip projektinis darbas kolegijoje dalykams **Programavimo pagrindai** (VBA) ir **Žmogaus-Kompiuterio sąsajos elementai** (UI, UX).
 
+Suprogramuota su VBA programavimo kalba.
+
 Žaidimo tikslas - surasti visus žodžius! :smile:
 
 Pagrindiniame lange žaidėjas gali pasirinkti:
@@ -27,3 +29,6 @@ pažymėjus visą žodį raidžių lentelėje iškarto iš žodžių sąrašo i�
 
 ### Žaidimo rezultatai:
 ![](/Screenshot_4.png)
+
+### Žodžių sąrašai:
+![](/Screenshot_5.png)
