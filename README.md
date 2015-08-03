@@ -1,6 +1,8 @@
 # Excel-WordSearch
 
-Žaidimas padarytas kaip projektinis darbas kolegijoje dalykams Programavimo pagrindai (VBA) ir Žmogaus-Kompiuterio sąsajos elementai (UI, UX)
+Žaidimas padarytas kaip projektinis darbas kolegijoje dalykams **Programavimo pagrindai** (VBA) ir **Žmogaus-Kompiuterio sąsajos elementai** (UI, UX).
+
+Žaidimo tikslas - surasti visus žodžius! :smile:
 
 Pagrindiniame lange žaidėjas gali pasirinkti:
 - lentelės dydį 20-30. Pagal nutylėjimą 20.
@@ -16,9 +18,11 @@ Pagrindiniame lange žaidėjas gali pasirinkti:
 ![](/Screenshot_1.png)
 
 ### Žaidimo ekranas:
+pažymėjus visą žodį raidžių lentelėje iškarto iš žodžių sąrašo išsibraukia tas žodis.
 ![](/Screenshot_2.png)
 
 ### Žaidimo ekranas pažymėjus "Rodyti atsakymus":
+Žodžiai nuspalvinami 4 skirtingomis spalvomis - t.y. pagal kryptį.
 ![](/Screenshot_3.png)
 
 ### Žaidimo rezultatai:
